@@ -19,7 +19,7 @@ Welcome to the Elite Online Ticketing System, a front-end web application that a
 
 ## Setup instructions
 1. Clone the repository:
-    "https://github.com/CodesByEtemesi/store_centre_front.git"
+    "https://github.com/CodesByEtemesi/ELITE_ONLINE_TICKETING_SYSTEM.git"
 2. Navigate to the project directory:
 ```cd flight``
 6. Access the application in your web browser at run the index.html file to load the project on your browser.
